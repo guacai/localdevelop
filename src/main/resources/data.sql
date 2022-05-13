@@ -1,0 +1,1 @@
+INSERT INTO user (id, userName, passWord) VALUES (1, 'test', 'test');
